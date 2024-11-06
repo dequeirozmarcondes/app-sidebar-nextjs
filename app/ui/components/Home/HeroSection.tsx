@@ -9,8 +9,8 @@ export default function Hero() {
       <div className="absolute inset-0 bg-black bg-opacity-50"></div>
       <div className="relative z-10 text-center px-4 sm:px-6 lg:px-8 max-w-3xl">
         <h1 className="text-4xl font-bold text-white sm:text-5xl lg:text-6xl leading-tight">
-          Transform Your Ideas{" "}
-          <span className="text-yellow-500">Into Reality</span>
+          Eleve a Sua Empresa{" "}
+          <span className="text-yellow-500">Para o Próximo Nível</span>
         </h1>
         <p className="mt-4 text-lg text-gray-300 sm:text-xl lg:text-2xl max-w-2xl mx-auto">
           We provide cutting-edge solutions to elevate your business to the next
